@@ -1,1 +1,1 @@
-Print("whats up buddy" v6)
+Print("whats up buddy", v6)
